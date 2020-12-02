@@ -1,0 +1,9 @@
+info pendaftaran
+isi:
+1.nama lengkap(input)
+2.tempat tgl lahir(input)
+3.jenis kelamin(radio)
+4.agama(select)
+5.alamat(mt)
+6.nomor hp(input)
+7.hobi(chekbox)
